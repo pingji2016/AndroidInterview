@@ -10,3 +10,7 @@
 
 # 2.轻量级网络导读
 -  EfficientNet论文解读 [查看说明文档](./EfficientNet/EfficientNet.md)
+
+
+# 3.AI 相关
+-  AI发展 [查看说明文档](./ai_dev.md)
