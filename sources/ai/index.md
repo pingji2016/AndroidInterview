@@ -11,11 +11,12 @@
 - TensorFlow 配置 CUDA 环境 [查看说明文档](./8.md)
 
 ## 2. 轻量级网络导读
+- 轻量级神经网络与Vision Transformer详解 [查看说明文档](./ai-dev/lint-net.md)
 - EfficientNet论文解读 [查看说明文档](./EfficientNet/EfficientNet.md)
 
 ## 3. AI 相关
 - AI发展历程与核心驱动力 [查看说明文档](./ai-dev/ai_dev.md)
-- 轻量级神经网络与Vision Transformer详解 [查看说明文档](./ai-dev/lint-net.md)
+
 
 ## 4. 机器学习算法
 - 机器学习经典算法：随机森林与SVM详解 [查看说明文档](./alg/randowm-forest--svn.md)
