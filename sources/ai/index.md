@@ -4,11 +4,11 @@
 - AI学习计划 [查看说明文档](./1.md)
 - Google Gemini AI小型化技术深度解析 [查看说明文档](./2.md)
 - Google Gemini AI小型化技术深度解析 [查看说明文档](./2.md)
-- Google Gemini AI小型化技术深度解析 [查看说明文档](./2.md)
 - 迁移学习与TensorFlow Lite模型转换 [查看说明文档](./5.md)
 - TensorFlow 相关文档 [查看说明文档](./5.md)
 - TensorFlow 和 PyTorch [查看说明文档](./6.md)
 - TensorFlow 配置 CUDA 环境 [查看说明文档](./8.md)
+- 端侧AI规划 [查看说明文档](./9.md)
 
 ## 2. 轻量级网络导读
 - 轻量级神经网络与Vision Transformer详解 [查看说明文档](./ai-dev/lint-net.md)
@@ -16,7 +16,6 @@
 
 ## 3. AI 相关
 - AI发展历程与核心驱动力 [查看说明文档](./ai-dev/ai_dev.md)
-
 
 ## 4. 机器学习算法
 - 机器学习经典算法：随机森林与SVM详解 [查看说明文档](./alg/randowm-forest--svn.md)

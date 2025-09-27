@@ -14,6 +14,7 @@
 - add() 和 replace() 的区别  [查看说明文档](./sources/2.2.md)
 - show()/hide() 与 detach()/attach() 的区别 [查看说明文档](./sources/2.3.md)
 - Fragment 之间通信的方式 [查看说明文档](./sources/2.4.md)
+- Fragment 之间Jepack导航文件 [查看说明文档](./sources/2.5.md)
 
 ### 3. 组件通信
 - Binder 驱动跨进程通信 [查看说明文档](./sources/3.0.md)
