@@ -63,6 +63,10 @@
 - 资源冲突解决方案 [查看说明文档](./sources/8.3.md)
 - 动态加载原理 [查看说明文档](./sources/8.4.md)
 
+## AOSP篇
+- AMS、PMS、WMS 和 SystemServer 详解 (./sources/8.0.md)
+
+
 ## 实战篇
 
 ### 1. 自定义 View
