@@ -64,7 +64,8 @@ ddddd# Android 开发常见面试问题
 - 动态加载原理 [查看说明文档](./sources/8/8.4.md)
 
 ## AOSP篇
-- AMS、PMS、WMS 和 SystemServer 详解 (./sources/8/8.0.md)
+- AMS、PMS、WMS 和 SystemServer 详解 [查看说明文档](./sources/8/8.0.md)
+- 常见的ADB命令 [查看说明文档](./sources/8/8.5.md)
 
 
 ## 实战篇
@@ -93,7 +94,6 @@ ddddd# Android 开发常见面试问题
 ### 1. 新技术
 
 ## 疑难问题
-ddd
 1. 如何实现应用保活？[查看说明文档](./sources/12/12.1.md)
 2. 如何减少包体积？[查看说明文档](./sources/12/12.2.md)
 3. 如何实现多渠道打包？[查看说明文档](./sources/12/12.3.md)
