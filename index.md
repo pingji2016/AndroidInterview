@@ -29,6 +29,7 @@ ddddd# Android 开发常见面试问题
 - ANR 的产生原因及预防措施 [查看说明文档](./sources/4/4.1.md)
 - 布局优化的常用手段  [查看说明文档](./sources/4/4.2.md)
 - 图片加载优化 (Bitmap 处理) [查看说明文档](./sources/4/4.3.md)
+- ThreadLocal 引发内存泄漏的机制  [查看说明文档](./sources/10/10.md)
 
 ### 2. 多线程
 - Handler 机制原理 [查看说明文档](./sources/5/5.1.md)
