@@ -44,7 +44,7 @@ ddddd# Android 开发常见面试问题
 - WebView 优化及安全注意事项 [查看说明文档](./sources/other/5_1.4.md)
 
 ## 架构篇
-- Android 系统启动流程 (./sources/6/6.0.md)
+
 
 ### 1. 设计模式
 - MVC、MVP、MVVM 的区别 [查看说明文档](./sources/6/6.1.md)
@@ -66,8 +66,10 @@ ddddd# Android 开发常见面试问题
 
 ## AOSP篇
 - AMS、PMS、WMS 和 SystemServer 详解 [查看说明文档](./sources/8/8.0.md)
+- Android 系统启动流程 [查看说明文档](./sources/6/6.0.md)
 - 常见的ADB命令 [查看说明文档](./sources/8/8.5.md)
-
+- fastboot， bl锁，系统分区之间的关系 [查看说明文档](./sources/8/8.6.md)
+- android系统目录，预装应用安装在哪，普通应用可以访问那些目录 [查看说明文档](./sources/8/8.7.md)
 
 ## 实战篇
 
@@ -79,6 +81,7 @@ ddddd# Android 开发常见面试问题
 - RecyclerView的缓存机制 [查看说明文档](./sources/9/9.5.md)
 - 高斯模糊实现 [查看说明文档](./sources/9/9.6.md)
 - 游戏渲染 [查看说明文档](./sources/9/9.7.md)
+- CameraX调用流程 [查看说明文档](./sources/9/9.8.md)
 
 ### 2. 动画
 - 补间动画和属性动画的区别  [查看说明文档](./sources/10/10.1.md)
