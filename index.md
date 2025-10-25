@@ -1,4 +1,4 @@
-ddddd# Android 开发常见面试问题
+# Android 开发常见面试问题
 
 ## 基础篇
 
@@ -115,6 +115,8 @@ ddddd# Android 开发常见面试问题
 5. 你如何看待 Flutter 和原生开发的未来？[查看说明文档](./sources/13/13.5.md)
 
 ## 学习资料推荐
-
+- google官网[查看连接](https://source.android.com/docs/core/virtualization/architecture?hl=zh-cn)
+- Docker使用 [查看说明文档](./sources/14/14.0.md)
+  
 1. 
 准备面试时，建议结合自身项目经验，对每个知识点都能举出实际应用案例，这将大大增加回答的说服力。同时，保持对新技术趋势的关注也很重要。
