@@ -19,9 +19,9 @@
 ### 3. 组件通信
 - Binder 驱动跨进程通信 [查看说明文档](./sources/3/3.0.md)
 - Intent 的显式和隐式调用 [查看说明文档](./sources/3/3.1.md)
-- BroadcastReceiver 的两种注册方式及区别 [查看说明文档](./sources/3/3.2.md)
-- ContentProvider 的实现原理 [查看说明文档](./sources/3/3.3.md)
-- 使用 AIDL 进行跨进程通信的基本步骤 [查看说明文档](./sources/3/3.4.md)
+- BroadcastReceiver 的两种注册方式及区别 [查看说明文档](./sources/3/3.4.md)
+- ContentProvider 的实现原理 [查看说明文档](./sources/3/3.2.md)
+- 使用 AIDL 进行跨进程通信的基本步骤 [查看说明文档](./sources/3/3.3.md)
 
 ## 进阶篇
 
