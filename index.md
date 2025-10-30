@@ -121,3 +121,14 @@
   
 1. 
 准备面试时，建议结合自身项目经验，对每个知识点都能举出实际应用案例，这将大大增加回答的说服力。同时，保持对新技术趋势的关注也很重要。
+
+
+## Google官方文档
+### 1. AOSP
+1. 官方文档[查看链接](https://source.android.com/docs/setup/download?hl=zh-cn)
+
+
+### 2. 开发
+1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
+2. 
+
