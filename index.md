@@ -130,5 +130,5 @@
 
 ### 2. 开发
 1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
-2. 
+2. Android 中的权限 [查看说明文档](./sources/16/16.0.md)
 
