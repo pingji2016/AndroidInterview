@@ -126,6 +126,7 @@
 ## Google官方文档
 ### 1. AOSP
 1. 官方文档[查看链接](https://source.android.com/docs/setup/download?hl=zh-cn)
+2. 厂商ROM定制[查看链接](./sources/14/14.2.md)
 
 
 ### 2. 开发
@@ -135,3 +136,8 @@
 
 ### 3，工具类
 1. Android studio 监控 profile [查看说明文档](./sources/17/17.0.md)
+2. android的反编译方法 [查看说明文档](./sources/17/17.1.md)
+3. android的加固和反调试检测方法 [查看说明文档](./sources/17/17.2.md)
+
+### 4，应用
+1. 如何实现应用跟新，热更新和冷更新[查看说明文档](./sources/18/18.0.md)
