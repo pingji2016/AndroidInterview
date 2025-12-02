@@ -128,6 +128,7 @@
 1. 官方文档[查看链接](https://source.android.com/docs/setup/download?hl=zh-cn)
 2. 厂商ROM定制[查看链接](./sources/14/14.2.md)
 3. Android 16[查看链接](./sources/14/14.3.md)
+4. Rust在Android系统开发[查看链接](./sources/14/14.4.md)
 
 ### 2. 开发
 1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
