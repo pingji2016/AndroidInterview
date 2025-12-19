@@ -133,6 +133,10 @@
 ### 2. 开发
 1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
 2. Android 中的权限 [查看说明文档](./sources/16/16.0.md)
+3. Android 中的无障碍 [查看说明文档](./sources/16/16.1.md)
+4. Android 中的adb [查看说明文档](./sources/16/16.2.md)
+5. debug和relase包的区别，为啥需要debug包？ [查看说明文档](./sources/16/16.3.md). 
+6. 代码混淆 [查看说明文档](./sources/16/16.4.md).  
 
 
 ### 3，工具类
