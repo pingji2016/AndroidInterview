@@ -56,6 +56,7 @@
 - ViewModel 的生命周期管理  [查看说明文档](./sources/7/7.1.md)
 - LiveData 与 RxJava 的区别  [查看说明文档](./sources/7/7.2.md)
 - Room 数据库升级方案  [查看说明文档](./sources/7/7.3.md)
+- SQLite 和 Room  [查看说明文档](./sources/7/7.5.md)
 - WorkManager 的使用场景  [查看说明文档](./sources/7/7.4.md)
 
 ### 3. 模块化/组件化
