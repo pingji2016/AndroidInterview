@@ -119,7 +119,8 @@
 ## 学习资料推荐
 - google官网[查看连接](https://source.android.com/docs/core/virtualization/architecture?hl=zh-cn)
 - Docker使用 [查看说明文档](./sources/14/14.0.md)
-  
+- 官方源码 [查看连接](https://xrefandroid.com/)
+- 官方beta版本以及支持piexl [查看连接](https://source.android.com/docs/setup/reference/build-numbers?hl=zh-cn)
 1. 
 准备面试时，建议结合自身项目经验，对每个知识点都能举出实际应用案例，这将大大增加回答的说服力。同时，保持对新技术趋势的关注也很重要。
 
@@ -130,6 +131,7 @@
 2. 厂商ROM定制[查看链接](./sources/14/14.2.md)
 3. Android 16[查看链接](./sources/14/14.3.md)
 4. Rust在Android系统开发[查看链接](./sources/14/14.4.md)
+5. OEM和 Android Flash Tool[查看链接](./sources/14/14.5.md)
 
 ### 2. 开发
 1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
