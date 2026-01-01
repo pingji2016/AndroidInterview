@@ -98,8 +98,9 @@
 - 鸿蒙系统适配考虑 [查看说明文档](./sources/11/11.4.md)
 
 ## 逆向
-- Frida 和 Xpose[查看说明文档](./sources/11/11.6.md)
-
+- Frida 和 Xpose[查看说明文档](./sources/decompile/xpose.md)
+- fdex2 和 mCookie Android8脱壳[查看说明文档](./sources/decompile/fdex2.md)
+- 
 ### 1. 新技术
 
 ## 疑难问题
