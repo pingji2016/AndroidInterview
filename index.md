@@ -38,6 +38,7 @@
 - 线程池的正确使用 [查看说明文档](./sources/5/5.4.md)
 
 ### 3. 网络相关
+- http基础 [查看说明文档](./sources/other/5_1.5.md)
 - OkHttp 拦截器原理 [查看说明文档](./sources/other/5_1.1.md)
 - Retrofit 动态代理实现原理 [查看说明文档](./sources/other/5_1.2.md)
 - HTTP 和 HTTPS 的区别 [查看说明文档](./sources/other/5_1.3.md)
