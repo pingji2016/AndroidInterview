@@ -58,6 +58,7 @@
 - LiveData 与 RxJava 的区别  [查看说明文档](./sources/7/7.2.md)
 - Room 数据库升级方案  [查看说明文档](./sources/7/7.3.md)
 - WorkManager 的使用场景  [查看说明文档](./sources/7/7.4.md)
+-  Glance 和 Compose   [查看说明文档](./sources/7/7.6.md)
 
 ### 3. 模块化/组件化
 - ARouter 实现原理 [查看说明文档](./sources/8/8.1.md)
@@ -133,7 +134,8 @@
 ### 2. 开发
 1. Core Area[查看链接](https://developer.android.com/develop?hl=zh-cn#core-areas)
 2. Android 中的权限 [查看说明文档](./sources/16/16.0.md)
-
+3. AppFunctions 和 MCP 是啥 [查看说明文档](./sources/16/16.6.md)
+ 
 
 ### 3，工具类
 1. Android studio 监控 profile [查看说明文档](./sources/17/17.0.md)
